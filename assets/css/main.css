@@ -2599,11 +2599,11 @@ input, select, textarea {
 				border-radius: 4px;
 				border: solid 1px rgba(144, 144, 144, 0.5);
 				display: inline-block;
-				height: 8em;
-				line-height: 8em;
+				height: 4em;
+				line-height: 4em;
 				margin: 0;
 				text-align: center;
-				width: 8em;
+				width: 4em;
 			}
 
 				ul.major-icons li .icon:before {
@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/image826.png");
+			background-image: url("images/overlay1.png"), url("../../images/image826.jpg");
 			background-size: auto,							cover;
 		}
 
@@ -2917,7 +2917,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), background-colour(#4361c2);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3263,9 +3263,9 @@ input, select, textarea {
 			}
 
 				ul.major-icons li .icon {
-					height: 8em;
-					line-height: 8em;
-					width: 8em;
+					height: 4em;
+					line-height: 4em;
+					width: 4em;
 				}
 
 		/* Main */
@@ -3309,9 +3309,9 @@ input, select, textarea {
 			}
 
 				ul.major-icons li .icon {
-					height: 7em;
-					line-height: 7em;
-					width: 7em;
+					height: 4em;
+					line-height: 4em;
+					width: 4em;
 				}
 
 		/* Main */
@@ -3379,9 +3379,9 @@ input, select, textarea {
 			}
 
 				ul.major-icons li .icon {
-					height: 5em;
-					line-height: 5em;
-					width: 5em;
+					height: 4em;
+					line-height: 4em;
+					width: 4em;
 				}
 
 					ul.major-icons li .icon:before {

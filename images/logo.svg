@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="115.42046mm"
-   height="48.256031mm"
-   viewBox="0 0 115.42046 48.256031"
+   width="109.04097mm"
+   height="44.86068mm"
+   viewBox="0 0 109.04097 44.86068"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="230.20861"
-     inkscape:cy="85.483779"
+     inkscape:cy="75.262946"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,35 +56,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-13.096207,-73.469725)">
-    <g
-       id="g829">
-      <text
-         transform="scale(0.95833844,1.0434727)"
-         id="text819"
+     transform="translate(-13.096207,-74.160814)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.97322845px;line-height:1.25;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.47433066"
+       x="89.839859"
+       y="113.37178"
+       id="text819"
+       transform="scale(0.95833844,1.0434727)"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="89.839859"
          y="113.37178"
-         x="90.392029"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.97322845px;line-height:1.25;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47433066"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DYMO Symbols';-inkscape-font-specification:'DYMO Symbols';stroke-width:1.47433066"
-           y="113.37178"
-           x="90.392029"
-           id="tspan817"
-           sodipodi:role="line">Q</tspan></text>
-      <rect
-         y="92.137909"
-         x="13.096207"
-         height="7.3499122"
-         width="77.374527"
-         id="rect821"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="98.552376"
-         x="16.036171"
-         height="11.091685"
-         width="15.367997"
-         id="rect823"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:3.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#e6e6e6;stroke-width:1.47433066">Q</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect821"
+       d="m 13.096207,92.916197 h 77.374527 v 7.349913 H 13.096207 Z"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.111328,96.800781 v 41.921879 h 21.71875 v -9.875 h 14.646484 v 9.875 h 21.71875 V 96.800781 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,13.096207,73.469725)"
+       id="rect823"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
