@@ -2451,6 +2451,7 @@ input, select, textarea {
 		ul.actions li {
 			padding: 0 0 0 1em;
 			vertical-align: middle;
+			justify-content: center;
 		}
 
 		ul.actions.special {
