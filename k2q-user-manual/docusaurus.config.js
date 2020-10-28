@@ -1,12 +1,12 @@
 module.exports = {
   title: 'K2Q Reference Guide',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://keytoquality.com',
+  baseUrl: '/k2q-user-manual/',
   onBrokenLinks: 'throw',
   favicon: 'img/k2qlogosmall.svg',
-  organizationName: 'Key to Quality', // Usually your GitHub org/user name.
-  projectName: 'User Manual', // Usually your repo name.
+  organizationName: 'keytoquality', // Usually your GitHub org/user name.
+  projectName: 'keytoqualitysite', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Reference Guide',

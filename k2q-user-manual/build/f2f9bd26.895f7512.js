@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{82:function(a){a.exports=JSON.parse('{"allTagsPath":"/k2q-user-manual/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/k2q-user-manual/blog/tags/hello"}')}}]);
