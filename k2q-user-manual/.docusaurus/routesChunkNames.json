@@ -1,0 +1,115 @@
+{
+  "/k2q-user-manual/blog-950": {
+    "component": "a6aa9e1f",
+    "sidebar": "3faa0d8d",
+    "items": [
+      {
+        "content": "99caf125"
+      },
+      {
+        "content": "c0a4ca73"
+      },
+      {
+        "content": "2738c48a"
+      }
+    ],
+    "metadata": "7e22375c"
+  },
+  "/k2q-user-manual/blog/hello-world-e21": {
+    "component": "ccc49370",
+    "sidebar": "3faa0d8d",
+    "content": "843d79fe"
+  },
+  "/k2q-user-manual/blog/hola-991": {
+    "component": "ccc49370",
+    "sidebar": "3faa0d8d",
+    "content": "aeda19be"
+  },
+  "/k2q-user-manual/blog/tags-aba": {
+    "component": "01a85c17",
+    "sidebar": "3faa0d8d",
+    "tags": "9bae4632"
+  },
+  "/k2q-user-manual/blog/tags/docusaurus-399": {
+    "component": "6875c492",
+    "sidebar": "3faa0d8d",
+    "items": [
+      {
+        "content": "99caf125"
+      },
+      {
+        "content": "c0a4ca73"
+      },
+      {
+        "content": "2738c48a"
+      }
+    ],
+    "metadata": "4cec5c04"
+  },
+  "/k2q-user-manual/blog/tags/facebook-a4d": {
+    "component": "6875c492",
+    "sidebar": "3faa0d8d",
+    "items": [
+      {
+        "content": "99caf125"
+      }
+    ],
+    "metadata": "d07a638a"
+  },
+  "/k2q-user-manual/blog/tags/hello-324": {
+    "component": "6875c492",
+    "sidebar": "3faa0d8d",
+    "items": [
+      {
+        "content": "99caf125"
+      },
+      {
+        "content": "c0a4ca73"
+      }
+    ],
+    "metadata": "f2f9bd26"
+  },
+  "/k2q-user-manual/blog/tags/hola-d8f": {
+    "component": "6875c492",
+    "sidebar": "3faa0d8d",
+    "items": [
+      {
+        "content": "2738c48a"
+      }
+    ],
+    "metadata": "668d785b"
+  },
+  "/k2q-user-manual/blog/welcome-9e8": {
+    "component": "ccc49370",
+    "sidebar": "3faa0d8d",
+    "content": "a9ae89f1"
+  },
+  "/k2q-user-manual/-cec": {
+    "component": "1be78505",
+    "versionMetadata": "f976f453"
+  },
+  "/k2q-user-manual/-d94": {
+    "component": "17896441",
+    "content": "e2d9f4c8"
+  },
+  "/k2q-user-manual/doc1-0a6": {
+    "component": "17896441",
+    "content": "7366bc9d"
+  },
+  "/k2q-user-manual/doc3-8bb": {
+    "component": "17896441",
+    "content": "225b4c69"
+  },
+  "/k2q-user-manual/k2qmodules-057": {
+    "component": "17896441",
+    "content": "a0664e9a"
+  },
+  "/k2q-user-manual/mdx-a57": {
+    "component": "17896441",
+    "content": "45acc928"
+  },
+  "/k2q-user-manual/whatisk2q-9d9": {
+    "component": "17896441",
+    "content": "6c242cad"
+  }
+}

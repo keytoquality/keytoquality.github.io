@@ -1,0 +1,472 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      12,
+      20,
+      24,
+      31,
+      32,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      3,
+      4,
+      12,
+      20,
+      24,
+      31,
+      32,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      12,
+      20,
+      24,
+      3
+    ],
+    "styles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      12,
+      20,
+      24,
+      29,
+      30,
+      31,
+      32,
+      0
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      5
+    ],
+    "@site/docs\\doc3.md": [
+      6
+    ],
+    "@site/blog\\2019-05-28-hola.md?truncated=true": [
+      7
+    ],
+    "C:\\Users\\higgi\\Documents\\GitHub\\keytoqualitysite\\k2q-user-manual\\.docusaurus\\docusaurus-plugin-content-blog\\default\\blog-post-list-prop-default.json": [
+      8
+    ],
+    "@site/docs\\mdx.md": [
+      9
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-tags-docusaurus-d91.json": [
+      10
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-tags-hola-48b.json": [
+      11
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "@site/docs\\02whatisk2q.md": [
+      13
+    ],
+    "@site/docs\\doc1.md": [
+      14
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-338.json": [
+      15
+    ],
+    "@site/blog\\2019-05-29-hello-world.md": [
+      16
+    ],
+    "@site/blog\\2019-05-30-welcome.md?truncated=true": [
+      17
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-tags-tags-724.json": [
+      18
+    ],
+    "@site/docs\\03k2qmodules.md": [
+      19
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      3,
+      20
+    ],
+    "@site/blog\\2019-05-30-welcome.md": [
+      21
+    ],
+    "@site/blog\\2019-05-28-hola.md": [
+      22
+    ],
+    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+      23
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      2,
+      3,
+      24
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-tags-facebook-017.json": [
+      25
+    ],
+    "@site/docs\\01welcome.md": [
+      26
+    ],
+    "~blog/default\\k-2-q-user-manual-blog-tags-hello-8b5.json": [
+      27
+    ],
+    "~docs/default\\version-current-metadata-prop-751.json": [
+      28
+    ],
+    "main": [
+      0,
+      30,
+      29
+    ],
+    "runtime~main": [
+      0,
+      29,
+      30
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      32
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      2,
+      32
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.e0fd34af.css",
+          "hash": "c13fbc6982b00e110195",
+          "publicPath": "/k2q-user-manual/styles.e0fd34af.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.36888f37.js",
+          "hash": "c13fbc6982b00e110195",
+          "publicPath": "/k2q-user-manual/styles.36888f37.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.871872fa.js",
+          "hash": "4ed79760f9f6c5a72df6",
+          "publicPath": "/k2q-user-manual/1.871872fa.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.7d7749ff.js",
+          "hash": "fb91b9f6c026dcdbffe5",
+          "publicPath": "/k2q-user-manual/2.7d7749ff.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "3.afeef67b.js",
+          "hash": "52f9806a6d87203e56f9",
+          "publicPath": "/k2q-user-manual/3.afeef67b.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "01a85c17.557ff07e.js",
+          "hash": "19edcbb163a7f6ec1436",
+          "publicPath": "/k2q-user-manual/01a85c17.557ff07e.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "17896441.c4cb5c9e.js",
+          "hash": "bb50a00f92af2b57d767",
+          "publicPath": "/k2q-user-manual/17896441.c4cb5c9e.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "225b4c69.a0ef41ea.js",
+          "hash": "db05bac548d8a9026a92",
+          "publicPath": "/k2q-user-manual/225b4c69.a0ef41ea.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "2738c48a.ea495908.js",
+          "hash": "ff0a12a462a8bec3e09b",
+          "publicPath": "/k2q-user-manual/2738c48a.ea495908.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "3faa0d8d.e53290dc.js",
+          "hash": "5c9b3cfe164627543649",
+          "publicPath": "/k2q-user-manual/3faa0d8d.e53290dc.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "45acc928.e0d988d9.js",
+          "hash": "5690e4b7a039ce9e748f",
+          "publicPath": "/k2q-user-manual/45acc928.e0d988d9.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "4cec5c04.89816b29.js",
+          "hash": "de93c1433a87aba3aadf",
+          "publicPath": "/k2q-user-manual/4cec5c04.89816b29.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "668d785b.9d6ccebf.js",
+          "hash": "25e3245d6e076659dfbd",
+          "publicPath": "/k2q-user-manual/668d785b.9d6ccebf.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "6875c492.fa6d1d61.js",
+          "hash": "6be9d5e6ecc40336f9e4",
+          "publicPath": "/k2q-user-manual/6875c492.fa6d1d61.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "6c242cad.8b2e61bd.js",
+          "hash": "c444a04b89cf5d091226",
+          "publicPath": "/k2q-user-manual/6c242cad.8b2e61bd.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "7366bc9d.7c75fa32.js",
+          "hash": "da379925a6cbf952ac44",
+          "publicPath": "/k2q-user-manual/7366bc9d.7c75fa32.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "7e22375c.6c68ad90.js",
+          "hash": "88800ebbfbc856d2ceae",
+          "publicPath": "/k2q-user-manual/7e22375c.6c68ad90.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "843d79fe.d7792fbb.js",
+          "hash": "f8374911c5fae077d61b",
+          "publicPath": "/k2q-user-manual/843d79fe.d7792fbb.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "99caf125.59debb2a.js",
+          "hash": "aa9d8325bf0d29e66955",
+          "publicPath": "/k2q-user-manual/99caf125.59debb2a.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "9bae4632.aadf97b4.js",
+          "hash": "c34013b8a8bc21036568",
+          "publicPath": "/k2q-user-manual/9bae4632.aadf97b4.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "a0664e9a.4140c842.js",
+          "hash": "25757c5a4e4be16d31ca",
+          "publicPath": "/k2q-user-manual/a0664e9a.4140c842.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "a6aa9e1f.5f09b3af.js",
+          "hash": "2b6f625166259e6cef57",
+          "publicPath": "/k2q-user-manual/a6aa9e1f.5f09b3af.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "a9ae89f1.b7b54d72.js",
+          "hash": "052566f3c29a69345008",
+          "publicPath": "/k2q-user-manual/a9ae89f1.b7b54d72.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "aeda19be.696d3a28.js",
+          "hash": "5ea80089af177b034f2f",
+          "publicPath": "/k2q-user-manual/aeda19be.696d3a28.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "c0a4ca73.1c77120f.js",
+          "hash": "722ad0e95e11570d0995",
+          "publicPath": "/k2q-user-manual/c0a4ca73.1c77120f.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "ccc49370.11f89809.js",
+          "hash": "f5458da7160f0dc7fefe",
+          "publicPath": "/k2q-user-manual/ccc49370.11f89809.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "d07a638a.8fd6fecb.js",
+          "hash": "b936d245de8f6d62789a",
+          "publicPath": "/k2q-user-manual/d07a638a.8fd6fecb.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "e2d9f4c8.3ae7e4a6.js",
+          "hash": "2be566730ee38d7a8c35",
+          "publicPath": "/k2q-user-manual/e2d9f4c8.3ae7e4a6.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "f2f9bd26.895f7512.js",
+          "hash": "3323c6ab57be0431ab6f",
+          "publicPath": "/k2q-user-manual/f2f9bd26.895f7512.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "f976f453.30f5c717.js",
+          "hash": "5f3b425c938e88583e17",
+          "publicPath": "/k2q-user-manual/f976f453.30f5c717.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "main.bdb6dc4e.js",
+          "hash": "e775b7655d74422a7a9f",
+          "publicPath": "/k2q-user-manual/main.bdb6dc4e.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "runtime~main.23e8643d.js",
+          "hash": "1e338b06164806dde954",
+          "publicPath": "/k2q-user-manual/runtime~main.23e8643d.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "31.983007fb.js",
+          "hash": "6287d3948be7d06f30be",
+          "publicPath": "/k2q-user-manual/31.983007fb.js"
+        },
+        {
+          "file": "32.07552f1a.js",
+          "hash": "d4deb5031c2902ad5151",
+          "publicPath": "/k2q-user-manual/32.07552f1a.js"
+        }
+      ]
+    }
+  }
+}
