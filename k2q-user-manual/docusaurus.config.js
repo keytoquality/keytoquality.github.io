@@ -14,14 +14,14 @@ module.exports = {
         alt: 'K2Q',
         src: 'img/k2qlogosmall.svg',
       },
-//    items: [
-//      {
-//        to: "docs/fracas",
-//        activeBasePath: "docs/fracas",
-//        label: "FRACAS",
-//        position: "left"
-//      },
-//    ]  
+    items: [
+      {
+        to: "fracas/fracasintro",
+        activeBasePath: "docs",
+        label: "FRACAS",
+        position: "left"
+      },
+    ]  
     },
     footer: {
       style: 'dark',
