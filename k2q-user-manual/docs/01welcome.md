@@ -8,8 +8,8 @@ custom_edit_url: null
 
 ## Welcome to the K2Q reference guide
 
-This online reference guide provides information and instructions about how to use the various components of the K2Q system. It also covers the concepts and theory behind each part of the system in detail.
+This online reference guide provides information and instructions about how to use the different components of the K2Q system. It also details the key concepts and theory behind each part of the system.
 
 ## Getting Started
 
-If you are new to K2Q we recommend reading through the following topics in this section to understand the foundational concepts and fundamental operation of the system.
+If you are new to K2Q we recommend reading through the following topics in this section to understand the fundamental concepts and operation of the system.

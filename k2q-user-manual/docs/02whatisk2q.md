@@ -7,7 +7,7 @@ custom_edit_url: null
 
 ## Overview
 
-K2Q is a cloud based, data-driven quality management system. It's comprised of seperate modules which each provide different functions within the areas of quality management. The modules can be implemented as standalone programs, or in combination with each other.
+K2Q is a cloud based, data-driven quality management system. It's comprised of seperate modules, which each provide different functions within the area of quality management. The modules can be implemented as standalone programs, or in combination with each other.
 
 K2Q is the product of painstaking development by a team of quality professionals with years of industry experience, to bring a system that provides a simple and straightforward platform for implementing complex quality processes within day to day operations. 
 

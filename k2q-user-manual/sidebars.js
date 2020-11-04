@@ -3,6 +3,6 @@ module.exports = {
     "Start here": ['welcome', 'whatisk2q', 'coreconcepts', 'k2qmodules'],
   },
   fracas: {
-    "FRACAS Module": ['fracas/fracasintro', 'fracas/fracasfields']
+    "Introduction to FRACAS": ['fracas/fracasintro', 'fracas/fracasapps', 'fracas/fracasconcepts', 'fracas/fracasfields']
   }
 };
