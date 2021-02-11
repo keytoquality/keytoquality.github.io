@@ -17,10 +17,20 @@ Quality Management Systems are often focused on the management of documentation 
 
 One of the fundamental concepts of the K2Q system is that every module is designed to provide customer focus. Customer focus means putting your customer's requirements first. Everytime data is collected, collated and analysed with K2Q, it's done with the purpose of creating an output that can be translated into action. This is a key factor in enabling continuous improvement.
 
-> Continuous Improvement refers to an ongoing cycle of incremental improvements that continuously drives customer satisfaction and business excellence to higher standards.
+> Continuous Improvement refers to an ongoing cycle of incremental improvements that continuously drives customer satisfaction and business excellence to higher standards
 
 
-In modern, contemporary organisations, everyone is responsible for maintaining quality standards. As such, customers can be internal as well as external. This is another important concept behind the design of the K2Q system, to promote an internal culture of quality which is in turn translated externally for the benefit of the consumer.
+In modern, contemporary organisations, everyone is responsible for maintaining quality standards. This is the philosophy of the Total Quality Management initiative. Many of these organisations operate the upside down organisational structure as shown below. Here the the flow of information and requirements trickles down from the customer, and the top management supports the business rather than dictate.
+
+![img](../static/img/topdown.jpg)
+
+## Management and Leadership
+
+> Management creates stability, Leadership creates change
+
+Many quality based software systems on the market today are focused on providing process control, structure and organisation tools. These are critically important elements of quality management, to maintain stability and conformance within an organisation, and they form the foundation of the K2Q system. However, what is often overlooked or misunderstood is the effect of good quality leadership. Leadership is also important within quality management to foster an internal culture of organisational change required to continue to meet the demanding needs of the customer. Just as important as top management commitment are the small acts of leadership at every level. K2Q includes some novel features that promote creativity, collaboration and empowers leadership qualities in individuals at all levels to take valuable action and promote continuous improvement.
+
+For an organisation going through a transformative change process, K2Q can be used as a partner to implementation of systems such as Total Quality Management, for exercising both control and conformance measures aswell as strategic goals. Many reasons for failure in an organisation achieving it's quality improvement goals are due to lack of commitment from top management, K2Q is a tool that can engage all stakeholders at all levels.
 
 ## Workflows
 
@@ -34,7 +44,7 @@ At the heart of the K2Q system is our powerful workflow engine. You'll come acro
 
 Workflows are based on sequential steps that must be completed in order. In an ideal world this concept works fine, but in reality activities such as problem solving rarely follow a set course, and often multiple activities are carried out in parallel. 
 
-K2Q workflows allow information to be recorded at any step of the process at any time. But between each step is a gate that requires the current step to be completed and approved before the status of the workflow can continue to the next step. While step gates are not a new concept, the way that we have implemented them empowers the team to take action and generate ideas without being constrained by the boundaries of the process.
+K2Q workflows allow information to be recorded at any step of the process at any time. Between each step is a gate that requires the current step to be completed and approved before the status of the workflow can continue to the next step. While step gates are not a new concept, the way that we have implemented them empowers the team to take action and generate ideas without being constrained by the boundaries of the process. This is taken from the concept of leadership as mentioned above, because leading changes within an organisation that are effective can sometimes only happen outside of the process where the problem has occured.
 
 ## Worklogs
 
